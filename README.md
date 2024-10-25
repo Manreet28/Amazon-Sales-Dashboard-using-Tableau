@@ -49,7 +49,6 @@ Setup Instructions
 Download the Tableau Workbook: Clone the repository or download the dashboard.twb file.
 
 bash
-Copy code
 git clone https://github.com/Manreet28/Amazon-Sales-Dashboard-using-Tableau.git
 cd Amazon-Sales-Dashboard-using-Tableau
 Open the Dashboard in Tableau: Launch Tableau Desktop or Tableau Public and open the dashboard.twb file.
